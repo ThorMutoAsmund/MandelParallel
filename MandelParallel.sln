@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MandelParallel", "MandelParallel\MandelParallel.csproj", "{532DE509-8EDE-41A1-9124-453AC65EBE37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{532DE509-8EDE-41A1-9124-453AC65EBE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532DE509-8EDE-41A1-9124-453AC65EBE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532DE509-8EDE-41A1-9124-453AC65EBE37}.Debug|x64.ActiveCfg = Debug|x64
+		{532DE509-8EDE-41A1-9124-453AC65EBE37}.Debug|x64.Build.0 = Debug|x64
+		{532DE509-8EDE-41A1-9124-453AC65EBE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532DE509-8EDE-41A1-9124-453AC65EBE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532DE509-8EDE-41A1-9124-453AC65EBE37}.Release|x64.ActiveCfg = Release|x64
+		{532DE509-8EDE-41A1-9124-453AC65EBE37}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B559EB9-374D-4E7E-9B45-D4C49D7B8117}
+	EndGlobalSection
+EndGlobal
